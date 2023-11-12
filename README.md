@@ -8,4 +8,4 @@
                 &Discreancies between the attendance and results
 <br>
 So in this repository I try to come up with logical ways that can be used to prevent such activities from happening.
-Manual signing can be burdensome and inaccurate, 
+Manual signing can be burdensome and inaccurate, so I think of an automatic system that keeps a track of students attendance and sends it to the lecturers.
