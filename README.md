@@ -12,4 +12,4 @@ Manual signing can be burdensome and inaccurate, so I think of an automatic syst
 The system consists of a scanner that students scan their thumbprints on entering the class and after and it calculates the number of hours a student has been in class. The list is automatically sent to the lecturer
 
 The step-wise logic of the program is as follows:
-# 1. 
+# 1. Hardware Setup
