@@ -7,4 +7,4 @@
 <br>
                 &Discreancies between the attendance and results
 <br>
-So in this repository I try to come u with logical ways that can be used to prevent such activities from happening
+So in this repository I try to come up with logical ways that can be used to prevent such activities from happening
