@@ -13,3 +13,4 @@ The system consists of a scanner that students scan their thumbprints on enterin
 
 The step-wise logic of the program is as follows:
 # 1. Hardware Setup
+# 2. Database Setup
