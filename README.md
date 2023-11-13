@@ -18,3 +18,4 @@ The step-wise logic of the program is as follows:
 ## 2. Database Setup
 ## 3. Attendance software
 ## 4. Attendance Calculation
+## 5. Integration with Student Portal
