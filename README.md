@@ -30,6 +30,7 @@ Develop a student portal: Create an interface where students can access their at
 Provide attendance summaries: Display attendance summaries, including total hours attended, on the student portal for each student
 ## 6. Attendance Reporting for Instructors
 Develop an instructor interface: Create a separate interface for instructors to view and manage attendance records for their classes
+Generate attendance reports: Allow instructors to generate attendance reports for specific time periods, individual students, or entire classes
 ## 7. Security and Compliance
 ## 8. Testing and Training
 ## 9. Deployment
