@@ -18,7 +18,7 @@ The step-wise logic of the program is as follows:
 Buy biometric thumb scanners and place them at the entance of the class before the class begins
 Connect the scanners to a central server/database where attendance can be stored
 ## 2. Database Setup
-Access the Student Management Information System database to have every student's and lecturers's data
+Access the Student Management Information System database to have every student's and lecturers's data. Specify the database to Engineering Department only and further divide it into the different Faculties
 ## 3. Attendance software
 ## 4. Attendance Calculation
 ## 5. Integration with Student Portal
