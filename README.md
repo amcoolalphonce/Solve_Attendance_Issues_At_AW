@@ -16,7 +16,7 @@
 The step-wise logic of the program is as follows:
 ## 1. Hardware Setup
 Buy biometric thumb scanners and place them at the entance of the class before the class begins
-Connect the scanners to a central server where attendance can be stored
+Connect the scanners to a central server/database where attendance can be stored
 ## 2. Database Setup
 
 ## 3. Attendance software
