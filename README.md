@@ -29,6 +29,7 @@ Calculate attendance duration by subtracting the exit time from the entry time
 Develop a student portal: Create an interface where students can access their attendance records
 Provide attendance summaries: Display attendance summaries, including total hours attended, on the student portal for each student
 ## 6. Attendance Reporting for Instructors
+Develop an instructor interface: Create a separate interface for instructors to view and manage attendance records for their classes
 ## 7. Security and Compliance
 ## 8. Testing and Training
 ## 9. Deployment
