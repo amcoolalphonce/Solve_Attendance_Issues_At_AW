@@ -23,6 +23,7 @@ Access the Student Management Information System database to have every student'
 Create software that interfaces with the thumbprint scanners, captures thumbprint data, and records attendance information
 Implement real-time processing: Ensure that attendance data is processed in real-time to provide instant feedback on a student's attendance status
 ## 4. Attendance Calculation
+Record entry and exit times: Capture the thumbprint data when a student enters and exits the classroom to record their attendance times
 ## 5. Integration with Student Portal
 ## 6. Attendance Reporting for Instructors
 ## 7. Security and Compliance
