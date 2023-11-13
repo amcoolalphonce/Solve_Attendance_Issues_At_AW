@@ -21,6 +21,7 @@ Connect the scanners to a central server/database where attendance can be stored
 Access the Student Management Information System database to have every student's and lecturers's data. Specify the database to Engineering Department only and further divide it into the different Faculties(Where Electrical has its own and Civil  also has its own etc...)
 ## 3. Attendance software
 Create software that interfaces with the thumbprint scanners, captures thumbprint data, and records attendance information
+Implement real-time processing: Ensure that attendance data is processed in real-time to provide instant feedback on a student's attendance status
 ## 4. Attendance Calculation
 ## 5. Integration with Student Portal
 ## 6. Attendance Reporting for Instructors
