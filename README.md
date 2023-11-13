@@ -15,6 +15,7 @@
 ***
 The step-wise logic of the program is as follows:
 ## 1. Hardware Setup
+Buy scanners and place them at the entance of the calss before the class begins
 ## 2. Database Setup
 ## 3. Attendance software
 ## 4. Attendance Calculation
