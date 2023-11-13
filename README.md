@@ -26,6 +26,7 @@ Implement real-time processing: Ensure that attendance data is processed in real
 Record entry and exit times: Capture the thumbprint data when a student enters and exits the classroom to record their attendance times
 Calculate attendance duration by subtracting the exit time from the entry time
 ## 5. Integration with Student Portal
+Develop a student portal: Create an interface where students can access their attendance records.
 ## 6. Attendance Reporting for Instructors
 ## 7. Security and Compliance
 ## 8. Testing and Training
