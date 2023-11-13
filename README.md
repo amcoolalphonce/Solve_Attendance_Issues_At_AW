@@ -22,3 +22,4 @@ The step-wise logic of the program is as follows:
 ## 6. Attendance Reporting for Instructors
 ## 7. Security and Compliance
 ## 8. Testing and Training
+## 9. Deployment
