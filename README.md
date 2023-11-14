@@ -40,4 +40,4 @@ Provide training: Train students, instructors, and administrative staff on how t
 Install the system.Deploy the thumbprint-based attendance system in classrooms after successful testing and training.
 Monitor and troubleshoot.Implement a monitoring system to identify and address any issues that may arise during regular use
 ## 10. Feedback and Iteration
-Gather feedback
+Gather feedback. Collect feedback from students, instructors, and staff to identify areas for improvement.
