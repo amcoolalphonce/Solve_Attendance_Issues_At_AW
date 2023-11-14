@@ -2,7 +2,8 @@
 ***
 ## Table of Contents
 [Issues ](#issues)
-[Hardware Setu](#1-hardware-setup)
+[Hardware Setup](#1-hardware-setup)
+[Database Setup](#2-database-setup)
 
 ## Issues
 <br>
