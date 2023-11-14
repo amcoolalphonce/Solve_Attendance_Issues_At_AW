@@ -10,6 +10,7 @@
 6. [Attendance reporting for Instructors](#6-attendance-reporting-for-instructors)
 7. [Security and Compliance](#7-security-and-compliance)
 8. [Testing and Training](#8-testing-and-training)
+9. [Deployment](#9-deployment)
 
 ## Issues
 <br>
