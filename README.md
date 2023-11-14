@@ -5,6 +5,7 @@
 1. [Hardware Setup](#1-hardware-setup)
 2. [Database Setup](#2-database-setup)
 3. [Attendance Software](#3-attendance-software)
+4. [Attendance Calculation](#4-attendance-calculation)
 
 
 ## Issues
