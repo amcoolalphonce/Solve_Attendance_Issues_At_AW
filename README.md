@@ -1,6 +1,9 @@
 # SOLVE ATTENDANCE ISSUES AT AMERICAN WING, THE UNIVERSITY OF NAIROBI.
 ***
-## Student attendance at the Engineering school faces a lot of issues: 
+## Table of Contents
+1. [Issues ](#issues)
+
+## Isssues
 <br>
                 ~Students signing for students who are not in school
 <br>
