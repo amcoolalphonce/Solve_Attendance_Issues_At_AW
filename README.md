@@ -34,5 +34,6 @@ Generate attendance reports: Allow instructors to generate attendance reports fo
 ## 7. Security and Compliance
 Implement data security measures: Ensure that thumbprint data and attendance records are stored securely to protect student privacy.
 ## 8. Testing and Training
+Provide training: Train students, instructors, and administrative staff on how to use the system effectively.
 ## 9. Deployment
 ## 10. Feedback and Iteration
