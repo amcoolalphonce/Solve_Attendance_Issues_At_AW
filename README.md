@@ -8,6 +8,7 @@
 4. [Attendance Calculation](#4-attendance-calculation)
 5. [Integration with student portal](#5-integration-with-student-portal)
 6. [Attendance reporting for Instructors](#6-attendance-reporting-for-instructors)
+7. [Security and Compliance](#7-security-and-compliance)
 
 
 ## Issues
