@@ -9,7 +9,7 @@
 5. [Integration with student portal](#5-integration-with-student-portal)
 6. [Attendance reporting for Instructors](#6-attendance-reporting-for-instructors)
 7. [Security and Compliance](#7-security-and-compliance)
-
+8. [Testing and Training](#8-testing-and-training)
 
 ## Issues
 <br>
