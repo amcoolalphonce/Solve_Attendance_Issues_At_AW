@@ -1,9 +1,10 @@
 # SOLVE ATTENDANCE ISSUES AT AMERICAN WING, THE UNIVERSITY OF NAIROBI.
 ***
 ## Table of Contents
-1. [Issues ](#issues)
+[Issues ](#issues)
+[Hardware Setu](#1-hardware-setup)
 
-## Isssues
+## Issues
 <br>
                 ~Students signing for students who are not in school
 <br>
