@@ -38,4 +38,5 @@ Test the system: Conduct thorough testing to ensure the accuracy and reliability
 Provide training: Train students, instructors, and administrative staff on how to use the system effectively.
 ## 9. Deployment
 Install the system.Deploy the thumbprint-based attendance system in classrooms after successful testing and training.
+Monitor and troubleshoot.
 ## 10. Feedback and Iteration
