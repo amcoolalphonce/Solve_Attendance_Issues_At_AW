@@ -1,9 +1,18 @@
 # SOLVE ATTENDANCE ISSUES AT AMERICAN WING, THE UNIVERSITY OF NAIROBI.
 ***
 ## Table of Contents
-1. [Issues ](#issues)
+[Issues ](#issues)
+1. [Hardware Setup](#1-hardware-setup)
+2. [Database Setup](#2-database-setup)
+3. [Attendance Software](#3-attendance-software)
+4. [Attendance Calculation](#4-attendance-calculation)
+5. [Integration with student portal](#5-integration-with-student-portal)
+6. [Attendance reporting for Instructors](#6-attendance-reporting-for-instructors)
+7. [Security and Compliance](#7-security-and-compliance)
+8. [Testing and Training](#8-testing-and-training)
+9. [Deployment](#9-deployment)
 
-## Isssues
+## Issues
 <br>
                 ~Students signing for students who are not in school
 <br>
