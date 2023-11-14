@@ -6,6 +6,7 @@
 2. [Database Setup](#2-database-setup)
 3. [Attendance Software](#3-attendance-software)
 4. [Attendance Calculation](#4-attendance-calculation)
+5. [Integration with student portal](#5-integration-with-student-portal)
 
 
 ## Issues
