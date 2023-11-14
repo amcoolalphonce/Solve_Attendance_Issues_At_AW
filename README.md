@@ -37,5 +37,5 @@ Implement data security measures: Ensure that thumbprint data and attendance rec
 Test the system: Conduct thorough testing to ensure the accuracy and reliability of the thumbprint-based attendance system.
 Provide training: Train students, instructors, and administrative staff on how to use the system effectively.
 ## 9. Deployment
-Install the system
+Install the system.Deploy the thumbprint-based attendance system in classrooms after successful testing and training.
 ## 10. Feedback and Iteration
