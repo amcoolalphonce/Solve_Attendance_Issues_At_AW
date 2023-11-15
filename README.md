@@ -15,6 +15,7 @@
 [Solutions](#solutions)
 [System Flow Chart](#system-flow-chart)
 
+
 ### Issues
 <br>
                 * Students signing for students who are not in school
@@ -59,3 +60,5 @@ Monitor and troubleshoot.Implement a monitoring system to identify and address a
 ## 10. Feedback and Iteration
 Gather feedback. Collect feedback from students, instructors, and staff to identify areas for improvement.
 Iterate on the system:Make necessary adjustments and improvements based on feedback to enhance the overall effectiveness and user experience of the attendance system.
+
+### Recommendations 
