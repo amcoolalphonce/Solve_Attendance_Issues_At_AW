@@ -2,6 +2,7 @@
 ***
 ## Table of Contents
 [Issues ](#issues)
+
 [System Flow Chart](#system-flow-chart)
 1. [Hardware Setup](#1-hardware-setup)
 2. [Database Setup](#2-database-setup)
