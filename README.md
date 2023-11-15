@@ -12,10 +12,11 @@
 8. [Testing and Training](#8-testing-and-training)
 9. [Deployment](#9-deployment)
 10. [Feedback and Iteration](#10-feedback-and-iteration)
-<br>
 
 [Solutions](#solutions)
+
 [System Flow Chart](#system-flow-chart)
+
 [Recommendations](#recommendations)
 
 
