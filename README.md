@@ -11,21 +11,28 @@
 7. [Security and Compliance](#7-security-and-compliance)
 8. [Testing and Training](#8-testing-and-training)
 9. [Deployment](#9-deployment)
+10. [Feedback and Iteration](#10-feedback-and-iteration)
+[Solutions](#solutions)
+[System Flow Chart](#system-flow-chart)
+[Recommendations](#recommendations)
 
-## Issues
+
+### Issues
 <br>
-                ~Students signing for students who are not in school
+                * Students signing for students who are not in school
 <br>
-                ~Lectures getting the wrong impression on attendance 
+                * Lectures getting the wrong impression on attendance 
 <br>
-                ~Discreancies between the attendance and results
+                * Discreancies between the attendance and results
 ***
 
--> So in this repository I try to come up with logical ways that can be used to prevent such activities from happening.
--> Manual signing can be burdensome and inaccurate, so I think of an automatic system that keeps a track of students attendance and sends it to the lecturers.
--> The system consists of a scanner that students scan their thumbprints on entering the class and after and it calculates the number of hours a student has been in class. The list is automatically sent to the lecturer
+### Solutions
+So in this repository I try to come up with logical ways that can be used to prevent such activities from happening.
+Manual signing can be burdensome and inaccurate, so I think of an automatic system that keeps a track of students attendance and sends it to the lecturers.
+The system consists of a scanner that students scan their thumbprints on entering the class and after and it calculates the number of hours a student has been in class. The list is automatically sent to the lecturer
 ***
 The step-wise logic of the program is as follows:
+### System flow chart
 ## 1. Hardware Setup
 Buy biometric thumb scanners and place them at the entance of the class before the class begins
 Connect the scanners to a central server/database where attendance can be stored
@@ -54,3 +61,8 @@ Monitor and troubleshoot.Implement a monitoring system to identify and address a
 ## 10. Feedback and Iteration
 Gather feedback. Collect feedback from students, instructors, and staff to identify areas for improvement.
 Iterate on the system:Make necessary adjustments and improvements based on feedback to enhance the overall effectiveness and user experience of the attendance system.
+
+### Recommendations 
+The concept of this system can also be modified to work in other places in the university :
+1. The library to monito staff attendance eg login and logout hours.
+2. The library to monitor students clock in hours instead of the manual method being used
