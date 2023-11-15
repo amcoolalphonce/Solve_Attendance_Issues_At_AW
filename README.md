@@ -65,3 +65,4 @@ Iterate on the system:Make necessary adjustments and improvements based on feedb
 ### Recommendations 
 The concept of this system can also be modified to work in other places in the university :
 1. The library to monito staff attendance eg login and logout hours.
+2. The library to monitor students clock in hours instead of the manual method being used
