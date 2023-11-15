@@ -29,6 +29,7 @@
 -> The system consists of a scanner that students scan their thumbprints on entering the class and after and it calculates the number of hours a student has been in class. The list is automatically sent to the lecturer
 ***
 The step-wise logic of the program is as follows:
+### System flow chart
 ## 1. Hardware Setup
 Buy biometric thumb scanners and place them at the entance of the class before the class begins
 Connect the scanners to a central server/database where attendance can be stored
