@@ -63,3 +63,4 @@ Gather feedback. Collect feedback from students, instructors, and staff to ident
 Iterate on the system:Make necessary adjustments and improvements based on feedback to enhance the overall effectiveness and user experience of the attendance system.
 
 ### Recommendations 
+The concept of this system can also be modified to work in other places in the university :
