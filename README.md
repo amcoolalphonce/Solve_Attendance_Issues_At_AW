@@ -66,6 +66,6 @@ Gather feedback. Collect feedback from students, instructors, and staff to ident
 Iterate on the system:Make necessary adjustments and improvements based on feedback to enhance the overall effectiveness and user experience of the attendance system.
 
 ### Recommendations 
-The concept of this system can also be modified to work in other places in the university :
-1. The library to monito staff attendance eg login and logout hours.
+The concept of this system can also be modified to work in other places in the university such as :
+1. The library to monitor staff attendance eg login and logout hours.
 2. The library to monitor students clock in hours instead of the manual method being used
