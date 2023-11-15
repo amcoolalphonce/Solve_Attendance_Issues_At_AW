@@ -16,11 +16,11 @@
 
 ### Issues
 <br>
-                ~Students signing for students who are not in school
+                * Students signing for students who are not in school
 <br>
-                ~Lectures getting the wrong impression on attendance 
+                * Lectures getting the wrong impression on attendance 
 <br>
-                ~Discreancies between the attendance and results
+                * Discreancies between the attendance and results
 ***
 
 ### Solutions
